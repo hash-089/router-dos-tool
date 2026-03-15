@@ -70,7 +70,7 @@ A comprehensive network stress testing tool designed for security professionals 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/router-dos-tool.git
+git clone https://github.com/hash-089/router-dos-tool.git
 
 # Navigate to directory
 cd router-dos-tool
@@ -153,23 +153,13 @@ This tool should ONLY be used:
 
 This tool is provided for educational and ethical testing purposes only. The authors and contributors are not responsible for any misuse or damage caused by this program. Users are solely responsible for complying with all applicable local, state, and federal laws.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
-Project Link: [https://github.com/talha116-dev/router-dos-tool](https://github.com/YOUR-USERNAME/router-dos-tool)
+Project Link: [https://github.com/hash-089/router-dos-tool](https://github.com/hash-089/router-dos-tool)
 
 ## 🙏 Acknowledgments
 
